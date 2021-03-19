@@ -86,13 +86,13 @@ Paper title: RATIONALITY IN DECISION-MAKING: An experiment to evaluate the effec
 
 # Scholarships
 <strong>2017 – 2021.  GKS – KOREAN GOVERNMENT SCHOLARSHIP FOR GRADUATE STUDENTS</strong>
-•	Ph.D. in Economics, Korea University (2018 – 2021)
+- Ph.D. in Economics, Korea University (2018 – 2021)
 
 <strong>2016 – 2017. CAPES – BRAZILIAN GOVERNMENT SCHOLARSHIP FOR GRADUATE STUDIES</strong>
-•	M.A., in Economics, Universidade do Vale do Rio dos Sinos (2016 – 2017)
+- M.A., in Economics, Universidade do Vale do Rio dos Sinos (2016 – 2017)
 
 
- # Research Related SkillsRESEARCH RELATED SKILLS
+ # Research Related Skills
  
 Statistical Programming Software – STATA
 
