@@ -1,28 +1,27 @@
 # Ingrid Rafaele Rodrigues Leiria
 e-mail: ingridleiria@korea.ac.kr
-- <a href="https://github.com/ingridleiria" taget="_blank">GitHub</a>
 - <a href="https://www.linkedin.com/in/ingrid-leiria-25b4767a/" taget="_blank">LinkedIn</a>
 
 
 # Education
 
 2018 – (Ongoing)
-Ph.D. Candidate in Economics, Korea University
+Ph.D. Candidate in Economics, <a href="http://korea.edu/mbshome/mbs/en/index.do" taget="_blank">Korea University</a>
 - Area of study: Applied Microeconomic Policy
 
 2016 – 2017 
-M.A., Economics, Universidade do Vale do Rio dos Sinos (UNISINOS)
+M.A., Economics, Universidade do Vale do Rio dos Sinos  <a href="http://www.unisinos.br/" taget="_blank">(UNISINOS)</a>
 - Area of study: Microeconomic Policy
  
 2012 – 2015 
-B.A., Economics, Universidade do Vale do Rio dos Sinos (UNISINOS)
+B.A., Economics, Universidade do Vale do Rio dos Sinos  <a href="http://www.unisinos.br/" taget="_blank">(UNISINOS)</a>
 - Area of study: Economics	
 
-  
+
 # Professional Appointments
 ## Research Experience
 2020 – (Ongoing):
- <strong>Research Assistant, Korean Development Institute (KDI) School of Public Policy and Management</strong>:
+ <strong>Research Assistant, Korean Development Institute <a href="https://kdischool.ac.kr/" taget="_blank">(KDI)</a> School of Public Policy and Management</strong>:
 Currently working on a project led by Prof. Ph.D. Joshua Merfeld (KDI School) and Prof. Ph.D. Jonathan Morduch (New York University). This position consists of working with raw survey data related to household expenditures, consumption, and poverty in rural India using statistical software (STATA) to create detailed panel data set.
 
 ## Other Professional Experience 
