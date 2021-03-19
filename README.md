@@ -121,4 +121,3 @@ Korean (Intermediate)
 <strong>2015:</strong> Consumer Behavior Analysis Training (80 hours): UNIEDUCAR
 
 
-<github-username>ingridleiria.github.io/<repository-name>
