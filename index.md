@@ -68,79 +68,54 @@ Leiria, I. R. R. (June 2020) <a href="https://www.oxfordurbanists.com/oxford-urb
 
 
 # Prizes
-2020, Ministry of Foreign Relations (South Korea)
+<strong>2020, Ministry of Foreign Relations (South Korea)</strong>
 Special Prize, 2020 Korean Public Diplomacy Paper Contest
 Paper title: SOUTH KOREAN NEW DEAL AND THE ROLE OF ECO-DIPLOMACY
 
-2018, National Economic Council - COFECON (BRAZIL)
+<strong>2018, National Economic Council - COFECON (BRAZIL)</strong>
 Honorary Prize, Among National Economic Dissertation Papers
 Paper title: RATIONALITY IN ILEGAL MARKETS: The effect of illegal goods demand in the criminality rate.
 
-2017, National Economic Council - COFECON (BRAZIL)
+<strong>2017, National Economic Council - COFECON (BRAZIL)</strong>
 Honorary Prize, Among National Economic Bachelor’s degree Papers
 Paper title: RATIONALITY IN DECISION-MAKING: An experiment to evaluate the effect of economic scenarios on voter’s decision in a presidential election.
 
-2016, Regional Economic Council - CORECON (BRAZIL, Rio Grande do Sul)
+<strong>2016, Regional Economic Council - CORECON (BRAZIL, Rio Grande do Sul)</strong>
 Grand Prize, Among Regional Economic Bachelor’s degree Papers
 Paper title: RATIONALITY IN DECISION-MAKING: An experiment to evaluate the effect of economic scenarios on voter’s decision in a presidential election.
 
-SCHOLARSHIPS
-2017 – 2021.  GKS – KOREAN GOVERNMENT SCHOLARSHIP FOR GRADUATE STUDENTS
+# Scholarships
+<strong>2017 – 2021.  GKS – KOREAN GOVERNMENT SCHOLARSHIP FOR GRADUATE STUDENTS</strong>
 •	Ph.D. in Economics, Korea University (2018 – 2021)
-o	Full tuition fee and monthly stipend.
-•	Korean Language Course, Chosun University (2017-2018)
-o	Full tuition fee and monthly stipend.
-2016 – 2017. CAPES – BRAZILIAN GOVERNMENT SCHOLARSHIP FOR GRADUATE STUDIES
-•	M.A., in Economics, Universidade do Vale do Rio dos Sinos (2016 – 2017)
-o	Full tuition fee.
-2014 – 2015. PRIVATE COMPANY SCHOLARSHIP FOR UNDERGRADUATE STUDENTS – HT Micron Semiconductor S.A
-•	B.A., in Economics, Universidade do Vale do Rio dos Sinos (2014 – 2015)
-o	Partial tuition fee.
 
- # RESEARCH RELATED SKILLS
+<strong>2016 – 2017. CAPES – BRAZILIAN GOVERNMENT SCHOLARSHIP FOR GRADUATE STUDIES</strong>
+•	M.A., in Economics, Universidade do Vale do Rio dos Sinos (2016 – 2017)
+
+
+ # Research Related SkillsRESEARCH RELATED SKILLS
  
 Statistical Programming Software – STATA
+
 Office package (Word, Excel, Power Point) 
+
 Proactive
+
 Multicultural Teamwork
 
-# LANGUAGES				
+
+# Languages		
 Portuguese (Native)
+
 English (Advanced)
+
 Spanish (Intermediate)
+
 Korean (Intermediate)	
 
-# ADDITIONAL ACTIVITIES
-2015 – 2017: 5S (workplace organization method) Program Coordinator at HT Micron Semiconductors and Teikon.
-2015: Market Intelligence Training (24 hours): Universidade do Vale do Rio dos Sinos. 
-2015: Consumer Behavior Analysis Training (80 hours): UNIEDUCAR
+
+# Additional Activities 
+<strong>2015 – 2017:</strong> 5S (workplace organization method) Program Coordinator at HT Micron Semiconductors and Teikon.
+<strong>2015:</strong> Market Intelligence Training (24 hours): Universidade do Vale do Rio dos Sinos. 
+<strong>2015:</strong> Consumer Behavior Analysis Training (80 hours): UNIEDUCAR
 
 
-
-```markdown
-Syntax highlighted code block
-
-# Education 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ingridleiria/digital-cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
