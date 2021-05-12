@@ -20,18 +20,18 @@ B.A., Economics, Universidade do Vale do Rio dos Sinos  <a href="http://www.unis
 
 # Professional Appointments
 ## Research Experience
-2020 – (Ongoing):
+10/2020 – 05/2021:
  <strong>Research Assistant, Korean Development Institute <a href="https://kdischool.ac.kr/" taget="_blank">(KDI)</a> School of Public Policy and Management</strong>:
-Currently working on a project led by Prof. Ph.D. Joshua Merfeld (KDI School) and Prof. Ph.D. Jonathan Morduch (New York University). This position consists of working with raw survey data related to household expenditures, consumption, and poverty in rural India using statistical software (STATA) to create detailed panel data set.
+Project led by Prof. Ph.D. Joshua Merfeld (KDI School) and Prof. Ph.D. Jonathan Morduch (New York University). This position consists of working with raw survey data related to household expenditures, consumption, and poverty in rural India using statistical software (STATA) to create detailed panel data set.
 
 ## Other Professional Experience 
 2014 – 2017: 
 <strong>Administrative Analyst, HT Micron Semiconductors SA</strong>:
-Working in the facilities management area making purchase orders, contact with suppliers, contract negotiation, budget meetings, meeting organization, and writing and training colleagues on the company internal procedures, generate weekly reports, organize and participate in team meetings.
+Active in the facilities management area, making purchase orders, contact with suppliers, contract negotiation, budget meetings, meeting organization, and writing and training colleagues on the company internal procedures, generate weekly reports, organize and participate in team meetings.
 
 2013 – 2014: 
 <strong>Administrative Assistant, HT Micron Semiconductors SA</strong>:
-Working as an assistant of the administrative area, working in the facilities management area, making purchase orders, and contact with suppliers.
+Active in the administrative area, working in the facilities management area, making purchase orders, and contact with suppliers.
 
 # Research Activities
 ## Articles
@@ -42,6 +42,15 @@ Leiria, I. R. R.; Alves, T. W. (2020). ‘Rationality in decision-making: the ef
 Leiria, I. R. R. (2020). ‘SOUTH KOREAN NEW DEAL AND THE ROLE OF ECO-DIPLOMACY’. Collection of Essays on Korea’s Public Diplomacy: Possibilities and Future Outlook– Ministry of Foreign Relations. Seoul: Seoul National University Press. 
 
 Leiria, I. R. R.; Alves, T. W.; Carvalho, A. M. (2020). ‘Rationality in Illegal Markets: The Effect of Illegal Goods Demand on Crime Rate’. Book Chapter 10. O conhecimento científico na fronteira das diversas áreas da economia. Editora Atena pp.153-178.
+
+
+## Working Articles
+Leiria, I. R. R.; Choi, J. H. (2021). ‘LEGAL INFRASTRUCTURE IMPORTANCE ON ENTREPRENERUSHIP ENTRY: The paradox of Latin American Countries.’ (On development)
+
+Leiria, I. R. R.; Park, W.Y. (2021). 'Maternity and parental leave policies on life satisfaction and fertility rate in South Korea.'(On development)
+
+Leiria, I. R. R. (2021). 'Partnership inside the households: Evidence from India.'(On development)
+
 
 ## Online Small Articles/Blog
 
