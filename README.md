@@ -100,7 +100,7 @@ Paper title: RATIONALITY IN DECISION-MAKING: An experiment to evaluate the effec
 - M.A., in Economics, Universidade do Vale do Rio dos Sinos (2016 – 2017)
 
 
- # Research Related Skills
+# Research Related Skills
  
 Statistical Programming Software – STATA
 
