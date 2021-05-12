@@ -20,7 +20,7 @@ B.A., Economics, Universidade do Vale do Rio dos Sinos  <a href="http://www.unis
 
 # Professional Appointments
 ## Research Experience
-10/2020 – 05/2021:
+2020 – 2021:
  <strong>Research Assistant, Korean Development Institute <a href="https://kdischool.ac.kr/" taget="_blank">(KDI)</a> School of Public Policy and Management</strong>:
 Project led by Prof. Ph.D. Joshua Merfeld (KDI School) and Prof. Ph.D. Jonathan Morduch (New York University). This position consists of working with raw survey data related to household expenditures, consumption, and poverty in rural India using statistical software (STATA) to create detailed panel data set.
 
